@@ -1,0 +1,2 @@
+class WordChains
+end
